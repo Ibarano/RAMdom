@@ -30,6 +30,7 @@ body {
     width: auto;
     font-family: "Montserrat Medium";
     height: auto;
+    font-size: 200%;
 }
 .flex-container-ul_0_li2  {
     display: inline-block;
@@ -103,8 +104,9 @@ body {
     font-weight: bolder;
     width: 100%;
     height: auto;
-    font-size: 300%;
+    font-size: 100%;
 }
+
 .flex-container-main section a:link  {
     color: hsla(0,0%,100%,1.00);
     text-decoration: none;
@@ -150,7 +152,7 @@ body {
 .flex-container-main-h2 {
     width: 93%;
     font-family: "Montserrat Medium";
-    font-size: 140%;
+    font-size: 160%;
     color: #FFFFFF;
     font-weight: lighter;
     height: auto;
@@ -283,7 +285,6 @@ body {
     height: auto;
 }
 .flex-container-sec1 {
-    background-size: 117% 103%;
     color: #000000;
     border: 5px solid hsla(0,0%,35%,1.00);
     background-color: hsla(0,0%,35%,0.15);
