@@ -209,8 +209,8 @@ body {
 #sec_0 {
     background-size: 100% auto;
     color: #FFFFFF;
-    width: 90%;
-    height: auto;
+    width: 100%;
+    height: 200px;
     display: flex;
     background-position: 0% 53%;
     background-attachment: scroll;
@@ -221,6 +221,7 @@ body {
     justify-content: center;
     padding-top: 10px;
     padding-bottom: 10px;
+    margin-bottom: 25px;
 }
 #h2 {
     width: 13%;
