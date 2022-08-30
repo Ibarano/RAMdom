@@ -102,8 +102,10 @@ body {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     display: flex;
     font-weight: bolder;
+    width: 100%;
+    height: auto;
+    font-size: 300%;
 }
-
 .flex-container-main section a:link  {
     color: hsla(0,0%,100%,1.00);
     text-decoration: none;
