@@ -110,7 +110,7 @@ body {
     font-weight: bolder;
     width: 100%;
     height: auto;
-    font-size: 100%;
+    font-size: 200%;
 }
 
 .flex-container-main section a:link  {
@@ -211,6 +211,8 @@ body {
     display: flex;
     background-position: 0% 53%;
     background-attachment: scroll;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 200%;
 }
 #sec_0 {
     background-size: 100% auto;
@@ -227,6 +229,7 @@ body {
     justify-content: center;
     padding-top: 10px;
     padding-bottom: 10px;
+    margin-top: 10px;
 }
 #h2 {
     width: 13%;
